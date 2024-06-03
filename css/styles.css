@@ -1,0 +1,183 @@
+html{
+    width: 100%;
+    height: auto;
+    background-color: blue;
+}
+
+
+
+body{
+    width: 100%;
+    /*height: 70vh;*/
+    height: auto;
+    background-color: aqua;
+}
+
+header{
+    width: 100%;
+    height: 20%;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+}
+
+section.productos{
+    width: 45%;
+    height: 90%;
+    background-color: aqua;
+}
+
+h1{
+    width: 90%;
+    margin: auto;
+    background-color: aqua;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.jefe{
+    width: 95%;
+    height: 90%;
+    margin: auto;
+    background-color: aqua;
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    row-gap: 10px;
+
+}
+
+.card{
+    width: 100px;
+    height: 50%;
+    /*margin: auto;*/
+    background-color: blueviolet;
+    padding-top: 5%;
+    
+    
+}
+
+.foto_card{
+    width: 90%;
+    height: 70%;
+    background-color: deeppink;
+}
+
+div.card-container--value{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10%;
+}
+
+.a{
+    text-align: center;
+    padding-top: 10%;
+}
+
+button.delete-button{
+    width: 30%;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.foto_cesto{
+    width: 50%;
+    height: 20px;
+}
+
+/*------------------------         -----------*/
+section.formulario{
+    width: 45%;
+    height: 90%;
+    background-color: aqua;
+}
+
+.c{
+    margin-top: 2%;
+}
+
+div.form{
+    width: 60%;
+    height: 90%;
+    margin: auto;
+    background-color: aqua;
+    padding-top: 10%;
+}
+
+input{
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
+    /*margin: auto;*/
+}
+
+div.doble_boton{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+button.b{
+    width: 30%;
+    background-color: white;
+    cursor: pointer;
+}
+
+footer{
+    width: 100%;
+    height: 22%;
+    background-color: aqua;
+}
+
+.foot{
+    width: 50%;
+    margin: auto;
+    margin-top: 7%;
+    text-align: center;
+    background-color: aqua;
+}
+
+
+
+/*Mobile*/
+@media (max-width: 767px) {
+    main{
+        width: 100%;
+        height: 100%;
+        display: block;
+        justify-content: space-around;
+        background-color: aqua;
+    }
+
+    section.productos{
+        width: 100%;
+        height: auto;
+        background-color: aqua;
+    }
+
+    section.formulario{
+        width: 100%;
+        height: auto;
+        background-color: aqua;
+        padding-bottom: 2%;
+    }
+    
+}

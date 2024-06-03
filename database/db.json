@@ -1,0 +1,52 @@
+{
+  "cryptos": [
+    {
+      "img": "https://www.infobae.com/new-resizer/N3LUJ90R2pWKprALZZWIHskrvJo=/768x432/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/DA3L7D3CQJEQFHMHNUTIGPUX4I.jpg",
+      "name": "BITCOIN",
+      "price": "72000",
+      "id": "1"
+    },
+    {
+      "img": "https://www.criptonoticias.com/wp-content/uploads/2022/01/ethereum-precio-1140x570.png.webp",
+      "name": "ETHEREUM",
+      "price": "3000",
+      "id": "2"
+    },
+    {
+      "img": "https://i0.wp.com/criptotendencia.com/wp-content/uploads/2023/08/Solana.jpg?fit=1043%2C575&ssl=1",
+      "name": "SOLANA",
+      "price": "150",
+      "id": "3"
+    },
+    {
+      "img": "https://news.bit2me.com/wp-content/uploads/2022/08/Cardano.jpg",
+      "name": "CARDANO",
+      "price": "1.45",
+      "id": "4"
+    },
+    {
+      "id": "b280",
+      "name": "Navarro Alvaro",
+      "price": "1313",
+      "img": "https://news.bit2me.com/wp-content/uploads/2022/08/Cardano.jpg"
+    },
+    {
+      "id": "bd7f",
+      "name": "JOHN",
+      "price": "77",
+      "img": "https://news.bit2me.com/wp-content/uploads/2022/08/Cardano.jpg"
+    },
+    {
+      "id": "e8a7",
+      "name": "Romero Tombolini Gerardo",
+      "price": "5454",
+      "img": "https://news.bit2me.com/wp-content/uploads/2022/08/Cardano.jpg"
+    },
+    {
+      "id": "d6bf",
+      "name": "elsa virasoro",
+      "price": "1313",
+      "img": "https://news.bit2me.com/wp-content/uploads/2022/08/Cardano.jpg"
+    }
+  ]
+}
